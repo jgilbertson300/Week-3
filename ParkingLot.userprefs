@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CarController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarController.cs" Line="27" Column="33" />
+      <File FileName="..\lu-racer-master\Assets\Scripts\CarMovement.cs" Line="37" Column="38" />
+      <File FileName="..\lu-racer-master\Assets\Scripts\PlayerInputs.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
